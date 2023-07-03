@@ -43,14 +43,14 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 #  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+#    icon_pack: fas
+#    link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
     link: [https://twitter.com/GeorgeCushen](https://twitter.com/wbtynu)
 #  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/wangboting/
