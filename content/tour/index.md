@@ -1,4 +1,3 @@
-<!--
 ---
 title: Tour
 date: 2022-10-24
@@ -53,4 +52,3 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
--->
