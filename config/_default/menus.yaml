@@ -22,3 +22,6 @@ main:
 #  - name: 联系
 #    url: contact
 #    weight: 60
+  - name: 文学
+    url: wenxue
+    weight: 60
