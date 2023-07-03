@@ -34,6 +34,7 @@ sections:
     design:
       view: card
       columns: '1'
+
 <!--
   - block: markdown
     content:
