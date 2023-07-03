@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 随笔集
 
 # Listing view
 view: compact
