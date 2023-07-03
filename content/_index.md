@@ -60,7 +60,6 @@ sections:
       title:
       subtitle:
           text: |
-     #   {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     从来没有留心过，所以现在写不出！
     design:
       columns: '1'
