@@ -10,9 +10,9 @@ baseURL: 'https://wangboting-personal-blog.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
