@@ -25,6 +25,6 @@ main:
   - name: 文学
     url: wenxue
     weight: 60
- - name: 教程
+  - name: 教程
     url: jiaocheng
     weight: 80
