@@ -44,7 +44,7 @@ sections:
           text: Join Us
           url: ../contact/
     design:
-       Slide height is automatic unless you force a specific height (e.g. '400px')
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
