@@ -16,6 +16,7 @@ categories:
 ---
 &emsp;&emsp;可以使用Markdown、LaTeX math和Shortcodes在Wowchemy中编写丰富的内容。本文概述了最常见的格式化选项，包括Wowchemy独有的功能。
 <!--more-->
+{{< toc >}} 
 {{< toc hide_on="xl" >}}
 ## 一、副标题
 &emsp;&emsp;在页面标题、标题1之后，我们可以在页面正文中设置子标题的格式：
