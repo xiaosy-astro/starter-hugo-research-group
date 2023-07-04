@@ -93,14 +93,10 @@ Red colored text
 ## 七、切换列表
 &emsp;&emsp;向页面添加切换列表，以便在单击切换按钮后显示文本，例如问题的答案。有用的常见问题，剧透，或隐藏答案时，教学在线课程。
 ```markdown
-{{< spoiler text="Click to view the spoiler" >}}
+< spoiler text="Click to view the spoiler" >
 You found me!
-{{< /spoiler >}}
+< /spoiler >
 ```
-&emsp;&emsp;上面这个例子的输出为；则输出为
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}}
 
 ## 八、友情链接
 ### 1. 网页链接
@@ -112,15 +108,6 @@ You found me!
 [A relative link from one post to another post]({{< relref "../my-page-name" >}})
 [Scroll down to a page section with heading *Hi*](#hi)
 ```
-
-&emsp;&emsp;上面这个例子的输出为；则输出为
-
-[I'm an external link](https://www.google.com)
-[A post]({{< relref "/post/my-page-name" >}})
-[A publication]({{< relref "/publication/my-page-name" >}})
-[A project]({{< relref "/project/my-page-name" >}})
-[A relative link from one post to another post]({{< relref "../my-page-name" >}})
-[Scroll down to a page section with heading *Hi*](#hi)
 
 &emsp;&emsp;还可以在除Widget Pages(主页)之外的任何页面的页眉中创建按钮链接。
 
