@@ -103,9 +103,9 @@ You found me!
 ```markdown
 [I'm an external link](https://www.google.com)
 [A post](< relref "/post/my-page-name" >) ，注意<>两边都加上双花括号
-[A publication](< relref "/publication/my-page-name" >)，注意%两边都加上双花括号
-[A project](< relref "/project/my-page-name" >)注意%两边都加上双花括号
-[A relative link from one post to another post](< relref "../my-page-name" >)注意%两边都加上双花括号
+[A publication](< relref "/publication/my-page-name" >)，注意<>两边都加上双花括号
+[A project](< relref "/project/my-page-name" >)，注意<>两边都加上双花括号
+[A relative link from one post to another post](< relref "../my-page-name" >)，注意<>两边都加上双花括号
 [Scroll down to a page section with heading *Hi*](#hi)
 ```
 
