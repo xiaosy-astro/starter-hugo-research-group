@@ -29,7 +29,6 @@ main:
     url: jiaocheng
     weight: 40
   
-main:
   - name: Home
     url: /
     weight: 10
