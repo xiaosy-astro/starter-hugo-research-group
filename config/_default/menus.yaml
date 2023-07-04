@@ -29,6 +29,5 @@ main:
     url: jiaocheng
     weight: 40
   
- - name: 科普
-    weight: 50
+
 
