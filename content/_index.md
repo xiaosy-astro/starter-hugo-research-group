@@ -73,14 +73,6 @@ sections:
       view: card
       columns: '1'
 
-  - block: markdown
-    content:
-      title: 个性签名
-      subtitle:
-      text: {{<math>}}$\LaTeX${{/math}}
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+
 
 ---
