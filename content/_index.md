@@ -31,17 +31,46 @@ sections:
       offset: 0
       order: desc
       page_type: post
+    design:
+      view: card
+      columns: '1'
+    
+  - block: collection
+    content:
+      title: 近期文学
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
       page_type: wenxue
     design:
       view: card
       columns: '1'
-          
-  - block: markdown
+
+  - block: collection
     content:
-      title:
+      title: 近期教程
       subtitle:
-          text: |
-            从来没有留心过，所以现在写不出！
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: jiaocheng
     design:
+      view: card
       columns: '1'
+          
 ---
