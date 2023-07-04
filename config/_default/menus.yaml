@@ -9,13 +9,13 @@ main:
 #    weight: 10
   - name: 文章
     url: post
-    weight: 20
+    weight: 10
 #  - name: People
 #    url: people
 #   weight: 30
   - name: 事件
     url: event
-    weight: 40
+    weight: 20
 #  - name: Publications
 #    url: publication
 #    weight: 50
@@ -24,7 +24,18 @@ main:
 #    weight: 60
   - name: 文学
     url: wenxue
-    weight: 60
+    weight: 30
   - name: 教程
     url: jiaocheng
-    weight: 80
+    weight: 40
+ - name: 科普
+    identifier: kepu
+    weight: 50
+  - name: 物理
+    parent: kepu
+    url: kepu/physics/
+    weight: 10
+  - name: 天文
+    parent: kepu
+    url: kepu/astronomy/
+    weight: 10
