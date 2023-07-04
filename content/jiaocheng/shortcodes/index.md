@@ -55,12 +55,13 @@ Red colored text
 ```markdown
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ```
+<!--
 ## 五、列表
 
 ### 1. 有序列表
 ```markdown
 1. First item
-   1. A sub-item
+   1.1 A sub-item
 2. Another item
 ```
 1. First item
@@ -76,7 +77,7 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 - First item
   - A sub-item
 - Another item
-
+-->
 ## 六、待办事项
 &emsp;&emsp;通过使用标准Markdown语法，可以在Wowchemy中编写待办事项列表
 ```markdown
