@@ -294,7 +294,7 @@ Wowchemy支持思维导图的Markdown扩展。只需插入Markdown标记图代�
   - wowchemy
   - wowchemy-plugins-netlify
   - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal
+  - wowchemy-plugins-reveal```
 ```
-```
+一个更高级的思维导图，包含格式、代码块和数学
 
