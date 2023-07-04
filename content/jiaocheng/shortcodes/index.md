@@ -279,7 +279,7 @@ Here's some important information...
 
 ### 3. Youtube
 ```
-< youtube w7Ft2ymGmfc >
+{{< youtube w7Ft2ymGmfc >}}
 ```
 
 ### 4. Vimeo:
@@ -297,4 +297,46 @@ Wowchemy支持思维导图的Markdown扩展。只需插入Markdown标记图代�
   - wowchemy-plugins-reveal```
 ```
 一个更高级的思维导图，包含格式、代码块和数学
+```bash
+
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log('hello');
+      console.log('code block');
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$```
+```
+效果：
+
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log('hello');
+      console.log('code block');
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
 
