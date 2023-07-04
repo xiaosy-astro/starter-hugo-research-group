@@ -52,7 +52,7 @@ Red colored text
 
 ## 四、高光引用
 ```markdown
-This is a {{< hl >}}highlighted quote{{< /hl >}}.
+{{< hl >}}highlighted quote{{< /hl >}}
 ```
 
 ## 五、列表
@@ -78,10 +78,17 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 - Another item
 
 ### 6. 图片
-&emsp;&emsp;要交叉引用图形，请为其提供ID，例如，`{{< figure src="image.jpg" id="wowchemy" >}}`。 现在可以通过表单中的链接交叉引用该图`[A Figure](#figure-wowchemy)`。
+&emsp;&emsp;要交叉引用图形，请为其提供ID，例如，
+```markdown
+{{< figure src="image.jpg" id="wowchemy" >}}
+```
+&emsp;&emsp;现在可以通过表单中的链接交叉引用该图
+```markdown
+[A Figure](#figure-wowchemy)
+```
 
 ### 7. 标签和类别
-&emsp;&emsp;使用`{{< list tags >}}`提供链接标签的列表，或者使用`{{< list categories >}}`提供链接类别的列表。
+&emsp;&emsp;使用{{< hl >}}{{< list tags >}}{{< /hl >}}提供链接标签的列表，或者使用{{< hl >}}{{< list categories >}}{{< hl >}}提供链接类别的列表。
 
 
 
