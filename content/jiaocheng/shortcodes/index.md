@@ -25,7 +25,6 @@ categories:
 ```
 ## 二、强调
 ### 1. 粗体，斜体，划线
-&emsp;&emsp;斜体加下划线：
 ```markdown
 Italics with _underscores_.
 
@@ -77,6 +76,12 @@ This is a {{< hl >}}highlighted quote{{< /hl >}}.
 - First item
   - A sub-item
 - Another item
+
+### 6. 图片
+&emsp;&emsp;要交叉引用图形，请为其提供ID，例如，`{{< figure src="image.jpg" id="wowchemy" >}}`。 现在可以通过表单中的链接交叉引用该图`[A Figure](#figure-wowchemy)`。
+
+### 7. 标签和类别
+&emsp;&emsp;使用`{{< list tags >}}`提供链接标签的列表，或者使用`{{< list categories >}}`提供链接类别的列表。
 
 
 
