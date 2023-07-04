@@ -115,7 +115,7 @@ You found me!
 
 &emsp;&emsp;可以在除Widget Pages(主页)之外的任何页面的页头中创建指向文件的按钮链接。另外，要链接到内容**正文**中的文件，例如pdf，请将文件放在`static/uploads/`文件夹中，然后使用以下表单链接到它：
 ```markdown
-% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %，注意两边都加上双花括号
+% staticref "uploads/cv.pdf" "newtab" % Download my CV% /staticref %，注意%两边都加上双花括号
 ```
 `staticref`的可选参数`"newtab"`将导致链接在新选项卡中打开。
 
