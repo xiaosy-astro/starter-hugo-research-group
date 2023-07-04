@@ -13,7 +13,6 @@ categories:
   - Linux
   - 天文
 ---
-{{<audio 29224633>}}
 
 &emsp;&emsp;为了记录正在学习使用钱德拉望远镜的天文软件包**ciao**，写下这篇博客.
 <!--more-->
