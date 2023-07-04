@@ -127,11 +127,45 @@ You found me!
 ```markdown
 {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 ```
-
+`staticref`的可选参数`"newtab"`将导致链接在新选项卡中打开。
 上面这个例子的输出为；则输出为
 
 {{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
+### 3. 引用
+要引用页面或出版物，可以使用引用短代码，引用你创建的文件夹和页面名称：
+```markdown
+{{< cite page="/publication/preprint" view="citation" >}}
+```
+其中`view`对应于整个Wowchemy中使用的可用列表视图之一：
 
+- Stream
+- Compact
+- Card
+- Citation
+
+传统的学术引文，通过`params.yaml`中的`citation_style`设置进行配置，如果不指定视图，则默认为`Compact`视图。
+
+### 4. 目录
+目录可以帮助用户浏览冗长的页面。粘贴`{{< toc >}}`短代码在您希望的任意页面中显示目录。您可能还希望考虑使用`book layout`，它在大屏幕的右侧栏中显示内置的目录。
+
+在使用`book layout`时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。您可以使用`{{< toc hide on="xl" >}}`来完成此操作。
+### 5. 脚注
+```markdown
+I have more [^1] to say.
+
+[^1]: Footnote example.
+```
+上面这个例子的输出为；则输出为
+
+I have more [^1] to say.
+
+[^1]: Footnote example.
+
+### 6. 图片
+要交叉引用图形，请为其提供ID，例如，`{{< figure src="image.jpg" id="wowchemy" >}}`。 现在可以通过表单中的链接交叉引用该图`[A Figure](#figure-wowchemy)`。
+
+### 7. 标签和类别
+使用`{{< list tags >}}`提供链接标签的列表，或者使用`{{< list categories >}}`提供链接类别的列表。
 
 
