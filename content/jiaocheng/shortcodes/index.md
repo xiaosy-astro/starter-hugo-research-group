@@ -279,7 +279,7 @@ Here's some important information...
 
 ### 3. Youtube
 ```
-{{< youtube w7Ft2ymGmfc >}}
+< youtube w7Ft2ymGmfc >
 ```
 
 ### 4. Vimeo:
@@ -339,4 +339,17 @@ Wowchemy支持思维导图的Markdown扩展。只需插入Markdown标记图代�
       ```
     - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 ```
+## 十四、嵌入的文件
+```bash
+< gdocs src="https://docs.google.com/..." >
+```
 
+## 十五、数学公式
+Wowchemy支持Markdown扩展的LaTeX数学公式，在`config/_default/params.yaml`选项中的math选项可以启用此功能。
+
+要呈现内联或块数学，请将LaTeX数学用
+```bash
+< math >}}
+latex公式
+< /math >
+```
