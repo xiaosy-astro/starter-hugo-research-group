@@ -284,7 +284,7 @@ Here's some important information...
 < youtube w7Ft2ymGmfc >
 ```
 
-### 4. Vimeo:
+### 4. Vimeo
 ```
 < vimeo 146022717 >
 ```
