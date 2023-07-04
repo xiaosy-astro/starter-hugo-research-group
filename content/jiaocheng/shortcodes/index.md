@@ -151,14 +151,16 @@ You found me!
 
 ### 4. 目录
 &emsp;&emsp;目录可以帮助用户浏览冗长的页面。粘贴`{{< toc >}}`短代码在您希望的任意页面中显示目录。您可能还希望考虑使用`book layout`，它在大屏幕的右侧栏中显示内置的目录。
-
+<!--
 &emsp;&emsp;在使用`book layout`时，您可能仍然希望添加一个页内目录，该目录仅在隐藏右侧栏时显示。您可以使用`{{< toc hide on="xl" >}}`来完成此操作。
+
 ### 5. 脚注
 ```markdown
 I have more [^1] to say.
 
 [^1]: Footnote example.
 ```
+-->
 &emsp;&emsp;上面这个例子的输出为；则输出为
 
 I have more [^1] to say.
