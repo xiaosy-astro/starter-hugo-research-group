@@ -89,11 +89,11 @@ Red colored text
 
 ### 7. 标签和类别
 &emsp;&emsp;使用
-```markdown
+```latex
 {{< list_tags >}}
 ```
 提供链接标签的列表，或者使用
-```markdown
+```latex
 {{< list_categories >}}
 ```
 提供链接类别的列表。
