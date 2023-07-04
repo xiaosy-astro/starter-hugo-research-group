@@ -168,4 +168,20 @@ I have more [^1] to say.
 ### 7. 标签和类别
 使用`{{< list tags >}}`提供链接标签的列表，或者使用`{{< list categories >}}`提供链接类别的列表。
 
+### 8. 行动召唤按钮(Call-to-Action Buttons,CTA)
+使用CTA短代码创建按钮和操作调用(CTA)。
+CTA按钮示例:
+```markdown
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+```
+
+示例CTA按钮，带有一个链接到另一个动作
+```markdown
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}}
+```
+### 9. 提到用户
+要提到某人，键入`{{% mention "username" %}}`，其中`username`对应于`Wowchemy`中的用户帐户。
+
+### 10. 列出子页面
+若要列出子页，例如列出书中的章节，请使用`{{< list_children >}}`
 
