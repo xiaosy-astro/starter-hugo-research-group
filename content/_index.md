@@ -78,7 +78,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{<math>}}$\LaTeX${{</math>}}
+        {{< math >}}$\LaTeX${{< /math >}}
     design:
       columns: '1'
 
