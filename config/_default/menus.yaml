@@ -29,5 +29,16 @@ main:
     url: jiaocheng
     weight: 40
   
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: 科普
+    identifier: kepu
+    weight: 20
+  - name: 天文
+    parent: kepu
+    url: kepu/astronomy/
+    weight: 10
 
 
