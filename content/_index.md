@@ -38,7 +38,7 @@ sections:
   - block: collection
     content:
       title: 近期文学
-      subtitle:
+      subtitle: 书籍是人类进步的阶梯！
       text:
       count: 5
       filters:
