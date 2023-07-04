@@ -196,5 +196,105 @@ I have more [^1] to say.
 < list_children >，注意两边都加上双花括号
 ```
 ## 九、图像
+### 1. 一张图像
+图像可以通过将其放置在您的`assets/media/`媒体库或页面文件夹中，然后使用以下符号之一引用它们来添加图像。数字可以根据光/暗模式为主题，也可以交叉引用。
 
+页面文件夹或您的`assets/media/`媒体库中的图像：
+```markdown
+![screen reader text](image.jpg "caption")
+```
+
+对于更多可定制的图形，我们可以使用内置的图形短代码，而不是上面的Markdown图形语法。带标题的数字:
+```markdown
+< figure src="image.jpg" caption="A caption" numbered="true" >，注意<>两边都加上双花括号
+```
+
+根据用户的浅色或深色主题动态主题图像
+```markdown
+< figure src="image.jpg" caption="test" theme="light" >，注意<>两边都加上双花括号
+```
+```markdown
+< figure src="image.jpg" caption="test" theme="dark" >，注意<>两边都加上双花括号
+```
+
+### 2. 图像画廊
+将图片库添加到页面
+
+- 创建一个相册文件夹：`assets/media/albums/`
+- 将图像添加到相册文件夹中
+- 粘贴`< gallery album="< album - folder >" >`您希望图库显示在页面内容中的位置，并更改album参数以匹配您的相册文件夹的名称。
+
+ 如何更改图库图像的大小或形状？调用图库快捷代码时，只需添加resize_options即可。此选项使您可以使用标准Hugo调整大小选项来控制画廊图像的形状/大小。例如：`< gallery album="<ALBUM-FOLDER>" resize_options="250x250" >`
+ 
+ ### 3. 内嵌图像
+ Wowchemy使您能够使用范围广泛的内联图像(又名图标)从字体Awesome和Academicons除了表情符号。下面是一些使用图标短代码渲染图标的示例：
+ ```markdown
+< icon name="terminal" pack="fas" >， Terminal  
+< icon name="python" pack="fab" > ，Python  
+< icon name="r-project" pack="fab" >， R
+```
+
+### 4. 表情符号
+可以使用表情符号键盘或输入表情符号的名称来插入表情符号。从表情符号小抄中复制并粘贴表情符号名称。下面是一个例子，但要记住移动每个表情符号名称之间的空格和周围的冒号
+```markdown
+I heart Wowchemy smile
+```
+I : heart : Wowchemy : smile :
+## 十、标注
+Wowchemy支持标注的Markdown扩展，也称为提醒或旁白。标注是一个有用的功能，可以将人们的注意力吸引到重要或相关的内容上，比如文章中的注释、提示或警告。在编写教育性教程风格的文章或文档时，它们特别方便。可以使用下面的callout短代码创建标注。Wowchemy内置了几种不同风格的标注。段落将呈现为带有默认注释样式的标注：
+```
+% callout note %
+A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+% /callout %
+```
+{{% callout note %}}
+A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+
+或者，可以使用warning选项向读者显示警告:
+```
+% callout warning %
+Here's some important information...
+% /callout %
+```
+
+## 十一、音频
+语法
+```
+< audio src="markvard.mp3" >
+```
+## 十二、视频
+以下类型的视频可以添加到一个页面。
+### 1. 本地视频文件
+
+可以将视频放入您的`assets/media/`媒体库或页面文件夹中，然后使用以下符号之一引用它们，将视频添加到页面中。
+```
+< video src="my_video.mp4" controls="yes" >
+```
+### 2. 外部视频文件
+```
+< video src="https://example.com/my_video.mp4" controls="yes" >
+```
+请注意，如果视频包含声音，浏览器将阻止自动播放。
+
+### 3. Youtube
+```
+< youtube w7Ft2ymGmfc >
+```
+
+### 4. Vimeo:
+```
+< vimeo 146022717 >
+```
+## 十三、思维导图
+Wowchemy支持思维导图的Markdown扩展。只需插入Markdown标记图代码块，并可选择设置思维导图的高度，如下面的第一个示例所示。一个简单的思维导图，定义为Markdown列表
+```bash
+```markmap {height="200px"}
+- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal
+```
+```
 
