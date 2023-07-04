@@ -88,7 +88,7 @@ Red colored text
 ```
 
 ### 7. 标签和类别
-&emsp;&emsp;使用{{< hl >}}{{< list tags >}}{{< /hl >}}提供链接标签的列表，或者使用{{< hl >}}{{< list categories >}}{{< hl >}}提供链接类别的列表。
+&emsp;&emsp;使用{{< hl >}}{{< list tags >}}{{< /hl >}}提供链接标签的列表，或者使用{{< hl >}}{{< list categories >}}{{< /hl >}}提供链接类别的列表。
 
 
 
