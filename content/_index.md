@@ -73,6 +73,13 @@ sections:
       view: card
       columns: '1'
 
-
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 
 ---
