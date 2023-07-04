@@ -54,3 +54,84 @@ Red colored text
 ```markdown
 This is a {{< hl >}}highlighted quote{{< /hl >}}.
 ```
+## 五、列表
+### 1. 有序列表
+```markdown
+1. First item
+   1. A sub-item
+2. Another item
+```
+1. First item
+   1. A sub-item
+2. Another item
+### 2. 无序列表
+```markdown
+- First item
+  - A sub-item
+- Another item
+```
+- First item
+  - A sub-item
+- Another item
+
+## 六、待办事项
+通过使用标准Markdown语法，可以在Wowchemy中编写待办事项列表
+```markdown
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
+```
+上面这个例子的输出为；则输出为
+
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
+
+## 七、切换列表
+向页面添加切换列表，以便在单击切换按钮后显示文本，例如问题的答案。有用的常见问题，剧透，或隐藏答案时，教学在线课程。
+```markdown
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
+```
+上面这个例子的输出为；则输出为
+{{< spoiler text="Click to view the spoiler" >}}
+You found me!
+{{< /spoiler >}}
+
+## 八、友情链接
+### 1. 网页链接
+```markdown
+[I'm an external link](https://www.google.com)
+[A post]({{< relref "/post/my-page-name" >}})
+[A publication]({{< relref "/publication/my-page-name" >}})
+[A project]({{< relref "/project/my-page-name" >}})
+[A relative link from one post to another post]({{< relref "../my-page-name" >}})
+[Scroll down to a page section with heading *Hi*](#hi)
+```
+
+上面这个例子的输出为；则输出为
+
+[I'm an external link](https://www.google.com)
+[A post]({{< relref "/post/my-page-name" >}})
+[A publication]({{< relref "/publication/my-page-name" >}})
+[A project]({{< relref "/project/my-page-name" >}})
+[A relative link from one post to another post]({{< relref "../my-page-name" >}})
+[Scroll down to a page section with heading *Hi*](#hi)
+
+还可以在除Widget Pages(主页)之外的任何页面的页眉中创建按钮链接。
+
+### 2. 链接到文件
+
+可以在除Widget Pages(主页)之外的任何页面的页头中创建指向文件的按钮链接。另外，要链接到内容**正文**中的文件，例如pdf，请将文件放在`static/uploads/`文件夹中，然后使用以下表单链接到它：
+```markdown
+{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+```
+
+上面这个例子的输出为；则输出为
+
+{{% staticref "uploads/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
+
+
+
