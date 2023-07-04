@@ -75,8 +75,8 @@ sections:
 
   - block: markdown
     content:
-      title:个性签名
-      subtitle:从来没有留心过，所以现在写不出！
+      title:
+      subtitle:
       text: |
         {{<math>}}$\LaTeX${{</math>}}
     design:
