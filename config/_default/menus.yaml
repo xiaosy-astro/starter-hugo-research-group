@@ -34,8 +34,8 @@ main:
   - name: 物理
     parent: kepu
     url: kepu/physics/
-    weight: 10
+    weight: 60
   - name: 天文
     parent: kepu
     url: kepu/astronomy/
-    weight: 10
+    weight: 60
