@@ -28,7 +28,7 @@ main:
   - name: 教程
     url: jiaocheng
     weight: 40
+  
  - name: 科普
-    identifier: kepu
     weight: 50
 
