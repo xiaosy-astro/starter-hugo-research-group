@@ -75,10 +75,10 @@ sections:
 
   - block: markdown
     content:
-      title:
-      subtitle:
+      title:个性签名
+      subtitle:从来没有留心过，所以现在写不出！
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{<math>}}$\LaTeX${{</math>}}
     design:
       columns: '1'
 
