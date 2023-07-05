@@ -16,7 +16,7 @@ categories:
 ---
 {{% callout note %}}
 &emsp;&emsp;无善无恶者，理之静；有善有恶者，气之动。不动于气，即无善无恶，是谓至善。              
-                                                                                              ———王阳明
+                            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ———王阳明
 {{% /callout %}}
 <!--more-->
 
