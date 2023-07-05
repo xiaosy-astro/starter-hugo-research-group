@@ -1,6 +1,8 @@
 ---
 title: 传习录：薛侃录一〇二
 date: 2022-11-07
+image:
+  focal_point: 'top'
 authors:
   - 薛侃
 
