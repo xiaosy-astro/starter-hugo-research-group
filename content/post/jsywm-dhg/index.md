@@ -1,9 +1,10 @@
 ---
 title: 读《技术与文明》有感
 date: 2022-11-07
+image:
+  focal_point: 'top'
 authors:
   - admin
-  - Love Astro
 tags:
   - 随笔
   - 技术与文明
