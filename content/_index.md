@@ -10,7 +10,7 @@ sections:
       title: |
         仰 望 星 空
       image:
-        filename: starsky.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
