@@ -120,5 +120,5 @@ categories:
 
 三月十七日
 
-文章字数：{{ .Content | plainify | len }}
+
 
