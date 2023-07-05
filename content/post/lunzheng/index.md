@@ -1,6 +1,8 @@
 ---
 title: 读《论证是一门学问》的收获和启发
 date: 2023-04-08
+image:
+  focal_point: 'top'
 authors:
   - admin
   - Love Astro
