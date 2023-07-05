@@ -1,5 +1,5 @@
 ---
-title: 即小见大
+title: 导师
 date: 2023-07-06
 image:
   focal_point: 'top'
