@@ -70,3 +70,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  page_view_conter: true
