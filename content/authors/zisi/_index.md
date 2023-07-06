@@ -10,7 +10,7 @@ last_name: 思
 superuser: true
 
 # Role/position
-role: 南宋理学家，程朱理学集大成者，学者尊称朱子
+role: 儒家
 
 # Organizations/Affiliations
 organizations:
