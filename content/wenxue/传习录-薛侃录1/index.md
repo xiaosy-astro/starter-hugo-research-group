@@ -4,7 +4,8 @@ date: 2022-11-07
 image:
   focal_point: 'top'
 authors:
-  - 薛侃
+  - xuekan
+  - wangyangming
 
 tags:
   - 文学
