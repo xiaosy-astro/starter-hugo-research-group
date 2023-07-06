@@ -15,9 +15,9 @@ categories:
   - 鲁迅全集
 ---
 
-{{% callout %}}
+{{% callout note %}}
 &emsp;&emsp;凡有牺牲在祭坛前沥血之后，所留给大家的，实在只有“散胙”这一件事了。————鲁迅
-{{% /callout %}}
+{{% /callout note %}}
 
 <!--more-->
 
