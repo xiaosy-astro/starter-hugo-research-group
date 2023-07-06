@@ -77,9 +77,9 @@ sections:
     content:
       title: 
       subtitle:
-      text: 
+      text: |
        {{% callout note %}} $$G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} g_{\mu\nu} R = 8\pi G T_{\mu\nu}$${{% /callout %}}
     design:
-      columns: '1'
+      columns: '2'
 
 ---
