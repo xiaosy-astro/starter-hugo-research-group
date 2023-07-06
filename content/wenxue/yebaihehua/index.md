@@ -2,7 +2,7 @@
 title: 野百合花
 date: 2023-07-02
 authors:
-  - 王实味
+  - wangshiwei
 
 tags:
   - 文学
