@@ -4,7 +4,7 @@ date: 2023-07-06
 image:
   focal_point: 'top'
 authors:
-  - 鲁迅
+  - luxun
 
 tags:
   - 文学
