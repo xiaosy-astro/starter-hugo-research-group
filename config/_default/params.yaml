@@ -80,16 +80,16 @@ features:
     shape: circle
   comment:
     provider: commento
-    disqus:
-      shortname: ''
-      show_count: true
+#     disqus:
+#       shortname: ''
+#       show_count: true
     commento:
-      url: https://cdn.commento.io/js/commento.js
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      url: 'https://cdn.commento.io/js/commento.js'
+#     giscus:
+#       repo: ''
+#       repo_id: ''
+#       category: ''
+#       category_id: ''
   search:
     provider: wowchemy
     algolia:
