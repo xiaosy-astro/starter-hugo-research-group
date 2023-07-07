@@ -84,7 +84,7 @@ features:
       shortname: ''
       show_count: true
     commento:
-      url: ''
+      url: 'https://cdn.commento.io/js/commento.js'
     giscus:
       repo: ''
       repo_id: ''
