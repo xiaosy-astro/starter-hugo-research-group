@@ -79,7 +79,7 @@ features:
     gravatar: true
     shape: circle
   comment:
-    provider: ''
+    provider: commento
     disqus:
       shortname: ''
       show_count: true
