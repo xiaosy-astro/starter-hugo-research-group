@@ -15,7 +15,7 @@ categories:
 
 <!--more-->
 
-原文链接![社保是不是只用缴满 15 年就可以不用交了？](https://www.zhihu.com/collection/644105068)
+原文链接[社保是不是只用缴满 15 年就可以不用交了？](https://www.zhihu.com/collection/644105068)
 
 {{< toc >}}
 ### 一、什么是社保五险一金？
@@ -91,7 +91,7 @@ categories:
 
 &emsp;&emsp;关于医保这所有的一切问题，我都写进了这篇知乎7000赞的医保回答，而且我可以肯定自信的告诉在这篇高赞回答，覆盖了90%的医保的问题，你一定会找到你要的答案。
 
-{{ < cta cta_text="关于医保" cta_link="https://www.zhihu.com/question/48675395/answer/1180848131" cta_new_tab="true" > }}
+{{< cta cta_text="关于医保" cta_link="https://www.zhihu.com/question/48675395/answer/1180848131" cta_new_tab="true" >}}
 
 #### 2. 生育保险有什么用？
 
