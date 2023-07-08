@@ -83,8 +83,10 @@ sections:
       title: 爱因斯坦场方程
       subtitle: ''
       text: |-
-         $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
-         {{</math>}}
+        {{% callout note %}}
+           {{<math>}}
+           $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
+           {{</math>}}
          {{% /callout %}}
     design:
       columns: '1'
