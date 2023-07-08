@@ -76,16 +76,5 @@ sections:
     design:
       view: card
       columns: '1'
-  
 
-  - block: markdown
-    content:
-      title: 爱因斯坦场方程
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-    design:
-      columns: '1'
-   
 ---
