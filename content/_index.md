@@ -15,6 +15,11 @@ sections:
         <br>
         
         &emsp;&emsp;欢迎来到我的个人博客！在这里，我与您分享我的心灵世界和思考。通过文字和图像，我与您分享我对星空的热爱和探索，以及人生的思考和体验。无论您是天文爱好者、哲学追寻者还是寻找灵感的人，我希望我的博客能为您带来一份启发和共鸣。
+    cta:
+      url: wenxue/
+      label: 文学
+      icon_pack: fas
+      icon: download
   
   - block: collection
     content:
@@ -72,11 +77,7 @@ sections:
     design:
       view: card
       columns: '1'
-cta:
-  url: wenxue/
-  label: 文学
-  icon_pack: fas
-  icon: download
+
 
 
 ---
