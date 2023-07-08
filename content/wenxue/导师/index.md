@@ -8,8 +8,6 @@ authors:
 
 tags:
   - 文学
-  - 
-
 categories:
   - 文学
   - 鲁迅全集
@@ -43,3 +41,6 @@ categories:
 [^3]: 生西 佛家语，往生西方、成佛的意思。佛家以西方为“净土”或“极乐”世界。
 [^4]: 上升 升天。道教认为，服食仙药能飞升成仙。
 [^5]: “今日之我与昨日之我战” 语出梁启超《清代学术概论》（1921年出版），他在书中说自己“不惜以今日之我，难昔日之我”。
+
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>
