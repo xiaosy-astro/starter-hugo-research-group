@@ -78,8 +78,9 @@ sections:
       title: 
       subtitle:
       text: |
-        $$G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} g_{\mu\nu} R = 8\pi G T_{\mu\nu}$$
+        $$G_{\mu\nu} = R_{\mu\nu} - \frac{1}{2} g_{\mu\nu} R = 8\pi G T_{\mu\nu}$$,{{< cta cta_text="关于医保" cta_link="https://www.zhihu.com/question/48675395/answer/1180848131" cta_new_tab="true" >}}
+
     design:
-      columns: '2'
+      columns: '1'
 
 ---
