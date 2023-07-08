@@ -10,8 +10,20 @@ icon_pack: fas
 title: 使用Markdown、LaTeX和Shortcodes编写内容
 date: '2023-07-08T00:00:00Z'
 type: book # Do not modify.
----
+authors:
+  - admin
 
+tags:
+  - Markdown
+  - LaTeX
+  - Shortcodes
+
+categories:
+  - html
+  - Wowchemy
+---
+---
+{{< toc hide_on="xl" >}}
 ## 一、副标题
 &emsp;&emsp;在页面标题、标题1之后，我们可以在页面正文中设置子标题的格式：
 ```markdown
