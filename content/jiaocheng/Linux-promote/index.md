@@ -642,3 +642,5 @@ bzip2 [-cdfhkLstvVz][--repetitive-best][--repetitive-fast][- 压缩等级][要�
     -V或--version 显示版本信息.
 ```
 
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.js"></script>
