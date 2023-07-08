@@ -72,7 +72,11 @@ sections:
     design:
       view: card
       columns: '1'
-
+cta:
+  url: wenxue/
+  label: 文学
+  icon_pack: fas
+  icon: download
 
 
 ---
