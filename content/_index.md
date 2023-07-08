@@ -78,7 +78,7 @@ sections:
       columns: '1'
   
   - block: markdown
-     content:
+    content:
        title: 爱因斯坦场方程
        subtitle: ''
        text: |-
@@ -87,7 +87,7 @@ sections:
    $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$$
          {{</math>}}
          {{% /callout %}}
-      design:
+    design:
         columns: '1'
 
    
