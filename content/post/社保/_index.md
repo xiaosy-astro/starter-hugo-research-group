@@ -95,7 +95,7 @@ categories:
 
 &emsp;&emsp;关于医保这所有的一切问题，我都写进了这篇知乎7000赞的医保回答，而且我可以肯定自信的告诉在这篇高赞回答，覆盖了90%的医保的问题，你一定会找到你要的答案。
 
-{{< cta cta_text="关于医保" cta_link="https://www.zhihu.com/question/48675395/answer/1180848131" cta_new_tab="true" >}}
+{{< cta cta_text="关于医保" cta_link="https://wangboting-personal-blog.netlify.app/post/%E5%8C%BB%E4%BF%9D/" cta_new_tab="true" >}}
 
 ### 2. 生育保险有什么用？
 
@@ -120,7 +120,7 @@ categories:
 &emsp;&emsp;关于生育险的这些问题，我都写进了这篇7000赞的生育险高赞文章里，大家一定要认真看，评论里真有好几个年轻爸妈，因为没有经验不知道有一两万的生育津贴可以白领的这个事情，然后过了领取的有效期，想去领人家不给了，痛失几万块，追悔莫及。
 
 &emsp;&emsp;劝马上准备结婚，或者已经有孩子的年轻爸妈，一定认真看加收藏，弯腰就能捡到的钱一定要早准备资料及时领。
-{{< cta cta_text="生育保险" cta_link="https://www.zhihu.com/question/23881588/answer/1089559939" cta_new_tab="true" >}}
+{{< cta cta_text="生育保险" cta_link="https://wangboting-personal-blog.netlify.app/post/%E7%94%9F%E8%82%B2%E4%BF%9D%E9%99%A9/" cta_new_tab="true" >}}
 
 ### 3.公积金有什么用？
 
@@ -141,7 +141,7 @@ categories:
 &emsp;&emsp;全国又有哪些城市支持公积金异地贷款买房？
 
 &emsp;&emsp;等等等等诸多关于公积金的这些大家最最关心的问题，我也都写进了知乎这篇7000赞的文章，大家一定可以在里面找到自己的答案。
-{{< cta cta_text="公积金" cta_link="https://www.zhihu.com/question/20450610/answer/918966716" cta_new_tab="true" >}}
+{{< cta cta_text="公积金" cta_link="https://wangboting-personal-blog.netlify.app/post/%E5%85%AC%E7%A7%AF%E9%87%91/" cta_new_tab="true" >}}
 
 ### 4.工伤保险有什么用？
 
