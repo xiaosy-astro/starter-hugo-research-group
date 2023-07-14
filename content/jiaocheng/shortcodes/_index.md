@@ -100,9 +100,9 @@ Red colored text
 ## 七、切换列表
 &emsp;&emsp;向页面添加切换列表，以便在单击切换按钮后显示文本，例如问题的答案。有用的常见问题，剧透，或隐藏答案时，教学在线课程。
 ```markdown
-< spoiler text="Click to view the spoiler" >
+｛｛< spoiler text="Click to view the spoiler" >｝｝
 You found me!
-< /spoiler >
+｛｛< /spoiler >｝｝
 ```
 
 ## 八、友情链接
