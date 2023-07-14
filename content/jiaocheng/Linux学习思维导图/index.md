@@ -13,4 +13,4 @@ categories:
 
 &emsp;&emsp;记录Linux学习路径
 <!--more-->
-{{< figure src="Linux.png" id="Linux" >}}，注意两边都加上双花括号
+{{< figure src="Linux.png" id="Linux" >}}
