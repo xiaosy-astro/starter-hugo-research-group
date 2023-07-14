@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: 医保住院报销到底是怎样计算的？
-date: '2018-09-09T00:00:00Z'
+date: '2023-07-14T00:00:00Z'
 type: book # Do not modify.
 image:
   focal_point: 'top'
