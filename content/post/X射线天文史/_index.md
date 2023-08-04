@@ -15,8 +15,6 @@ authors:
 
 tags:
   - X射线天文
-  - X射线气球
-  - X射线火箭
   - X射线空间任务
   - X射线天文史
 categories:
