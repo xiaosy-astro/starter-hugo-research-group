@@ -59,7 +59,7 @@ Red colored text
 
 ## 四、高光引用
 ```markdown
-{｛< hl >}}highlighted quote{{< /hl >}}
+{{< hl >}}highlighted quote{{< /hl >}}
 ```
 
 ## 五、列表
