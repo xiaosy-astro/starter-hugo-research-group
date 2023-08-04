@@ -14,7 +14,6 @@ authors:
   - admin
 
 tags:
-  - X射线天文
   - X射线空间任务
   - X射线天文史
 categories:
