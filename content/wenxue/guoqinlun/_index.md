@@ -4,7 +4,7 @@ summary: “君臣固守以窥周室，有席卷天下，包举宇内，囊括�
 weight: 1
 icon: book
 #icon_pack: fas
-title: 中庸
+title:  过秦论
 date: 2023-10-10
 type: book 
 image:
