@@ -30,15 +30,3 @@ main:
     weight: 40
   
 
-  - name: 科普
-    identifier: kepu
-    weight: 20
-  - name: 天文
-    parent: kepu
-    url: kepu/astronomy/
-    weight: 10
-  - name: 物理
-    parent: kepu
-    url: kepu/physics/
-    weight: 10
-
