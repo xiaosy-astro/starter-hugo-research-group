@@ -24,7 +24,7 @@ categories:
   - Wowchemy
 ---
 {{<toc>}}
-[book layout]({{<relref>}})
+[book layout]({{<relref "/_index.md">}})
 
 
 ## 一、副标题
