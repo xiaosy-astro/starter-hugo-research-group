@@ -1,5 +1,5 @@
 ---
-# Title, summary, and page position.
+Title, summary, and page position.
 linktitle: 使用Markdown、LaTeX和Shortcodes编写内容
 summary: 可以使用Markdown、LaTeX math和Shortcodes在Wowchemy中编写丰富的内容。本文概述了最常见的格式化选项，包括Wowchemy独有的功能。
 weight: 1
@@ -22,6 +22,7 @@ categories:
   - html
   - Wowchemy
 ---
+[book layout]({{< relref “docs.md” >}})
 {{< toc hide_on="xl" >}}
 ## 一、副标题
 &emsp;&emsp;在页面标题、标题1之后，我们可以在页面正文中设置子标题的格式：
