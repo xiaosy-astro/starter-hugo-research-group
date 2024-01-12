@@ -1,1 +1,6 @@
-{{ Page.WordCount }}
+<!-- layouts/shortcodes/wordcount.html -->
+
+{{ with .Page.Content }}
+    {{ $wordCount := len (split . " ") }}
+    <p>Total Words: {{ $wordCount }}</p>
+{{ end }}
