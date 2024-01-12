@@ -23,7 +23,7 @@ categories:
   - html
   - Wowchemy
 ---
-
+本文共计 {{< wc >}} 字
 {{<toc>}}
 
 
@@ -391,4 +391,4 @@ gantt
 ```
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
-本文共计 {{<wc>}} 字
+
