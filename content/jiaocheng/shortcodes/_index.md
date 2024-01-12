@@ -23,7 +23,7 @@ categories:
   - html
   - Wowchemy
 ---
-{{ .TableOfContents }}
+<!-- toc -->
 
 
 ## 一、副标题
