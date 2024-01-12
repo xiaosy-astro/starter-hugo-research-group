@@ -23,8 +23,7 @@ categories:
   - html
   - Wowchemy
 ---
-{{<toc>}}
-[book layout]({{<relref "/shortcodes/_index.md">}})
+{{ .TableOfContents }}
 
 
 ## 一、副标题
