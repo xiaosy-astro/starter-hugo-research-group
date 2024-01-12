@@ -11,7 +11,7 @@
         Same as above, but for showing the TOC only on certain screen size.
 */}}
 
-<details class="toc-inpage d-print-none {{with .Get "show_on"}}d-{{.}}-none{{end}} {{with .Get "show_on"}}d-none d-{{.}}-block{{end}}" open>
+<details class="toc-inpage d-print-none {{with .Get "hide_on="xl""}}d-{{.}}-none{{end}} {{with .Get "show_on"}}d-none d-{{.}}-block{{end}}" open>
   <summary class="font-weight-bold">{{ i18n "table_of_contents" }}</summary>
   {{ $.Page.TableOfContents }}
 </details>
