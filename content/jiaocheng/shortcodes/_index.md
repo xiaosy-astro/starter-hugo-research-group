@@ -10,7 +10,7 @@ icon_pack: fas
 title: 使用Markdown、LaTeX和Shortcodes编写内容
 date: '2023-07-08T00:00:00Z'
 type: book # Do not modify.
-bookToc:true
+booktoc:true
 authors:
   - admin
 
