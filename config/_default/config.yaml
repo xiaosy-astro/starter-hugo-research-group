@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Looking at Star Sky Blog # Website name
+title: Looking at Star Sky # Website name
 baseURL: 'https://wangboting-personal-blog.netlify.app/' # Website URL
 
 ############################
