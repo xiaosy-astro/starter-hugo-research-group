@@ -18,8 +18,7 @@ categories:
   - 文学
   - 过秦论
 ---
-{{< toc >}}
-{{< toc hide_on="xl" >}}
+< toc hide_on="xl" >
 {{% callout note %}}
 &emsp;&emsp;前事之不忘，后事之师也。
 {{% /callout %}}
