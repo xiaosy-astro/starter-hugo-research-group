@@ -23,7 +23,6 @@ categories:
   - html
   - Wowchemy
 ---
-本文共计 {{< wc >}} 字
 {{<toc>}}
 
 
