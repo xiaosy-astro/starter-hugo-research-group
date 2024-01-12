@@ -22,7 +22,7 @@ categories:
   - html
   - Wowchemy
 ---
-{{< toc >}}
+{{< toc show_on="md">}}
 ## 一、副标题
 &emsp;&emsp;在页面标题、标题1之后，我们可以在页面正文中设置子标题的格式：
 ```markdown
