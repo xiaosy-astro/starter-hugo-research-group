@@ -76,5 +76,22 @@ sections:
     design:
       view: card
       columns: '1'
-
+  - block: collection
+    content:
+      title: IXPE近期文章
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: IXPE
+    design:
+      view: card
+      columns: '1'
 ---
