@@ -29,4 +29,6 @@ main:
     url: jiaocheng
     weight: 40
   
-
+  - name: IXPE
+    url: IXPE
+    weight: 40
