@@ -24,5 +24,4 @@ weight: 1
 
 [Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
 
-{{% /steps %}}
 
