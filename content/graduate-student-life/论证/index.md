@@ -71,6 +71,4 @@ categories:
 便爱不释手，囫囵吞枣式的阅读后，只觉相见恨晚。同时书中讲述的
 论证规则简单易懂，使我受益匪浅。于是便写下此文，以备日后留念。
 
-<div id="commento"></div>
-<script src="https://cdn.commento.io/js/commento.js"></script>
 
