@@ -33,15 +33,6 @@ main:
     weight: 40
   
   - name: 生活常识
-    url: life-knowledge
+    url: life-Knowledges
     weight: 40
-sidebar:
-  - identifier: more
-    name: Still need help?
-    params:
-      type: separator
-    weight: 1
-  - identifier: community
-    name: "社保"
-    pageRef: "/社保"
-    weight: 2
+
