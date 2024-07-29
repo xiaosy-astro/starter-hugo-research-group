@@ -3,10 +3,6 @@ title: 'Home'
 date: 2023-10-24  
 type: landing  
 
-design:
-  # Default section spacing
-  spacing: "6rem"
-  
 sections:  
   - block: hero  
     content:  
@@ -24,12 +20,12 @@ sections:
         link:  
           text: "了解更多"  
           url: "/graduate-student-life/"
-- block: markdown
+  - block: markdown
     content:
       title:
       subtitle: ''
       text:
-  design:
+    design:
       columns: '1'
       background:
         image: 
