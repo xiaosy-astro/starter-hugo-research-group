@@ -7,17 +7,17 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-#  - name: 文章
-#    url: post
-#    weight: 10
+  - name: 首页
+    url: /
+    weight: 10
   - name: 科研杂记
-    url: graduate-student-life
+    url: graduate-student-life/
     weight: 20
 #  - name: People
 #    url: people
 #   weight: 30
   - name: 事件
-    url: event
+    url: event/
     weight: 30
 #  - name: Publications
 #    url: publication
@@ -26,13 +26,13 @@ main:
 #    url: contact
 #    weight: 60
   - name: 文学
-    url: wenxue
+    url: wenxue/
     weight: 40
   - name: 教程
-    url: jiaocheng
+    url: jiaocheng/
     weight: 40
   
   - name: 生活常识
-    url: life-knowledge
+    url: life-knowledge/
     weight: 40
 
