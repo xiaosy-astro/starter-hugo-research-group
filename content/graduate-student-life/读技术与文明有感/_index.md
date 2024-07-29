@@ -48,6 +48,3 @@ categories:
 [^2]: 对芒福德和盖伦技术哲学思想的对比-藏刊网 (cangkan.net)
 
 [^3]: 李一男,尹奇岭.从《冈仁波齐》的接受看当代都市人的精神危机[J].景德镇学院学报,2018,33(02):32-36.
-
-<div id="commento"></div>
-<script src="https://cdn.commento.io/js/commento.js"></script>
