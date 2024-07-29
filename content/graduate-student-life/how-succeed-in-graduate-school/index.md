@@ -1,5 +1,5 @@
 ---
-title: 如何在研究生院取得成功：一个为研究生的指导
+title: 如何在研究生院取得成功：学生指南
 date: 2024-07-29
 image:
   focal_point: 'top'
