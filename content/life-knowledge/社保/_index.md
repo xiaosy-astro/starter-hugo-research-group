@@ -6,5 +6,5 @@ sidebar:
 ---
 
 {{< cards >}}
-  {{< card url="社保" title="社会保障" icon="document-text" >}}
+  {{< card url="社保" title="社会保障" >}}
 {{< /cards >}}
