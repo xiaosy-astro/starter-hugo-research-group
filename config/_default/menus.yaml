@@ -7,9 +7,9 @@ main:
 #  - name: Tour
 #    url: tour
 #    weight: 10
-  - name: 文章
-    url: post
-    weight: 10
+#  - name: 文章
+#    url: post
+#    weight: 10
   - name: 科研杂记
     url: graduate-student-life
     weight: 20
