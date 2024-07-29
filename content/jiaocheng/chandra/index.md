@@ -180,7 +180,5 @@ plt.savefig('fit.jpg')
 
 三、能谱拟合.
 
-<div id="commento"></div>
-<script src="https://cdn.commento.io/js/commento.js"></script>
 
 
