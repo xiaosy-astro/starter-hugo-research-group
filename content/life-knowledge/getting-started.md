@@ -6,7 +6,6 @@ weight: 1
 
 ## Quick Start from Template
 
-{{% steps %}}
 
 ### Initialize a new site
 
