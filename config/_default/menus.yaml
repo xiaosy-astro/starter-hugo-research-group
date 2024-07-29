@@ -32,6 +32,6 @@ main:
     url: jiaocheng
     weight: 40
   
-  - name: IXPE
-    url: IXPE
+  - name: 生活常识
+    url: life-knowledge
     weight: 40
