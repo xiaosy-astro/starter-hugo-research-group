@@ -583,6 +583,4 @@ categories:
 [^204]: 毛犹有伦：这句是说羽毛虽然轻微，但还是有东西可以类比的。 
 [^205]: “上天”两句：这两句诗引自《诗经·大雅·文王》。载，事。臭（xiù），气味。这句诗的大意是说，上天化育万物的道理，没有声音和气味，世上没有什么东西可以形容它的高妙。
 
-<div id="commento"></div>
-<script src="https://cdn.commento.io/js/commento.js"></script>
 
