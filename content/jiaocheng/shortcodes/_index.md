@@ -388,6 +388,4 @@ gantt
   Task in sec      :2014-01-12  , 12d
   another task      : 24d
 ```
-<div id="commento"></div>
-<script src="https://cdn.commento.io/js/commento.js"></script>
 
