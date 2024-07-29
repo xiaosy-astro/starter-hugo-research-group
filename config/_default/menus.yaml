@@ -33,6 +33,6 @@ main:
     weight: 40
   
   - name: 生活常识
-    url: life-Knowledges
+    url: life-knowledge
     weight: 40
 
