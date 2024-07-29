@@ -1,5 +1,5 @@
 ---
-linkTitle: Documentation
+linkTitle: 生活常识
 title: Introduction
 ---
 
