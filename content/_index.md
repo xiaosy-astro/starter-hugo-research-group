@@ -20,78 +20,22 @@ sections:
         label: '**文学**'
 
   
-  - block: collection
-    content:
-      title: 近期文章
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-    
-  - block: collection
-    content:
-      title: 近期文学
-      subtitle: 书籍是人类进步的阶梯！
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: wenxue
-    design:
-      view: card
-      columns: '1'
-
-  - block: collection
-    content:
-      title: 近期教程
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: jiaocheng
-    design:
-      view: card
-      columns: '1'
-  - block: collection
-    content:
-      title: IXPE近期文章
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: IXPE
-    design:
-      view: card
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: 近期文章
+#      subtitle:
+#      text:
+#      count: 5
+#      filters:
+#        author: ''
+#        category: ''
+#        exclude_featured: false
+#        publication_type: ''
+#        tag: ''
+#      offset: 0
+#      order: desc
+#      page_type: post
+#    design:
+#      view: card
+#      columns: '1'
 ---
