@@ -24,7 +24,12 @@ sections:
         link:  
           text: "了解更多"  
           url: "/graduate-student-life/"
-     design:
+- block: markdown
+    content:
+      title:
+      subtitle: ''
+      text:
+  design:
       columns: '1'
       background:
         image: 
