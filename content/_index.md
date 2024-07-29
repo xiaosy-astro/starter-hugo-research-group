@@ -19,5 +19,5 @@ sections:
         text: "博学笃志，格物明德。✨"  
         link:  
           text: "了解更多"  
-          url: "/showcase/"
+          url: "/graduate-student-life/"
 ---
