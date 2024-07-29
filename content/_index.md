@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        仰 望 星 空
+        观 星 探 险
       image:
         filename: welcome.jpg
       text: |
