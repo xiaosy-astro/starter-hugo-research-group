@@ -44,9 +44,8 @@ sections:
     design:
       slide_height: ''
       is_fullscreen: true
-      loop: false
+      loop: true
       interval: 2000
-  - block: music-player
     content:
       audio:
         src: "漠河舞厅.mp3"
