@@ -8,28 +8,40 @@
   justify-content: center;
 }
 // sidebar
-.toc nav ul li {
-  margin-bottom: 5px;
+.sidebar {
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
-.toc nav ul li.h2 {
-  font-size: 16px;
+.sidebar h2 {
+  font-size: 18px;
+  margin-top: 0;
 }
 
-.toc nav ul li.h3 {
-  font-size: 14px;
+.sidebar nav ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.sidebar nav ul ul {
   margin-left: 20px;
 }
 
-.toc nav ul li.h4 {
-  font-size: 12px;
-  margin-left: 40px;
+.sidebar nav a {
+  color: #333;
+  text-decoration: none;
 }
 
-
-.sidebar-nav a:hover {
-  color: #007bff;
+.sidebar nav a:hover {
+  color: #000;
 }
+
+.sidebar nav .active > a {
+  font-weight: bold;
+}
+
 
 
 
