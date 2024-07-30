@@ -1,7 +1,6 @@
 ---
 title: 如何在研究生院取得成功：学生指南
 date: 2024-07-29
-sidebar: true
 image:
   focal_point: 'top'
 authors:
@@ -19,7 +18,7 @@ categories:
 
 <!--more-->
 
-{{< toc >}}
+{{< sidebar >}}
 
 ### 1. 开始之前
 &emsp;&emsp;提前做好规划可以避免许多令人头疼的问题。首先，为什么要读研究生？
