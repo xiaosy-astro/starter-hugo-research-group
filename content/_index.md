@@ -2,6 +2,10 @@
 title: 首页
 type: landing
 
+---
+title: 首页
+type: landing
+
 sections:
   - block: slider
     content:
@@ -11,8 +15,6 @@ sections:
           align: center
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: solar-system.png
               filters:
                 brightness: 0.7
@@ -23,8 +25,6 @@ sections:
           align: left
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: nebula-ngc-3132.jpg
               filters:
                 brightness: 0.7
@@ -35,8 +35,6 @@ sections:
           align: center
           background:
             image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
               filename: universe-spiral.jpg
               filters:
                 brightness: 0.5
@@ -48,15 +46,11 @@ sections:
             text: 开始
             url: ../graduate-student-life/
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
-      # Make the slides full screen within the browser window?
       is_fullscreen: true
-      # Automatically transition through slides?
       loop: false
-      # Duration of transition between slides (in ms)
       interval: 2000
-- block: music-player
+  - block: music-player
     content:
       audio:
         src: "漠河舞厅.mp3"
