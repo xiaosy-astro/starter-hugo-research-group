@@ -2,8 +2,7 @@
 title: Graduate Student Life
 
 # Listing view
-view: date-title-summary
-url: /graduate-student-life/
+view: stream
 # Optional banner image (relative to `assets/media/` folder).
 # banner:
 #   caption: ''
