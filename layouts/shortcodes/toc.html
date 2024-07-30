@@ -28,8 +28,7 @@
 
 
 
-{{ $headers := findRE "<h[2-3].*?>(.+?)</h[2-3]>" .Content }}
-{{ if gt (len $headers) 0 }}
+
 <div class="sidebar-nav">
   <h2>目录</h2>
   <ul>
@@ -40,5 +39,4 @@
     {{ end }}
   </ul>
 </div>
-{{ end }}
 
