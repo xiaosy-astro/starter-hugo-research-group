@@ -18,10 +18,7 @@ categories:
 
 <!--more-->
 
-<details class="toc-inpage d-print-none" open>  
-  <summary class="font-weight-bold">{{ i18n "table_of_contents" }}</summary>  
-  {{ $.Page.TableOfContents }}  
-</details>
+{{ toc }}
 
 ### 1. 开始之前
 &emsp;&emsp;提前做好规划可以避免许多令人头疼的问题。首先，为什么要读研究生？
