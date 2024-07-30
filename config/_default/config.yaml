@@ -128,3 +128,7 @@ sitemap:
   _merge: deep
 params:
   page_view_conter: true
+  post_view_format:
+    date_position: left
+    author_position: right
+
