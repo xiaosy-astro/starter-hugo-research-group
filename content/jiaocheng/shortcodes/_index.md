@@ -22,8 +22,8 @@ tags:
 categories:
   - html
   - Wowchemy
+toc: true
 ---
-{{<toc>}}
 
 
 ## 一、副标题
