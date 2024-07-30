@@ -1,4 +1,4 @@
 ---
 title: 教程集
-view: stream
+view: card
 ---
