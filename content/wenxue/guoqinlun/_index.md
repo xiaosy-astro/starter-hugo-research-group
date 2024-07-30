@@ -17,8 +17,9 @@ tags:
 categories:
   - 文学
   - 过秦论
+toc: true
 ---
-{{< toc hide_on="x2" >}}
+
 {{% callout note %}}
 &emsp;&emsp;前事之不忘，后事之师也。
 {{% /callout %}}
