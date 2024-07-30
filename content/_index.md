@@ -12,7 +12,7 @@ sections:
     design:
       columns: '1'
       background:
-        color: '#800080'
+        color: 'purple'
         image: 
           filename: solar-system-.jpg
           filters:
@@ -24,7 +24,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-      text_color: '#FFA500' 
+      text_color: 'orange' 
   - block: hero
     content:
       title: |
