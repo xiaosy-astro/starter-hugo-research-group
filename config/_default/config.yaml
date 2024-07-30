@@ -28,7 +28,7 @@ cascade:
         enable: true
   - _target:
       path: /life-knowledge/**
-      kind: post
+      kind: page
     pager: true
     editable: true
     hide_date: false
