@@ -13,6 +13,8 @@ categories:
   - 随笔
   - 杂记
 toc : true
+toc_hide: true
+toc_position: sidebar
 ---
 
 > 一旦您找到了论文题目，您可能需要两年或更长时间才能完成论文，而这期间几乎看不到任何里程碑或标志性事件。            ——Marie desJardins
