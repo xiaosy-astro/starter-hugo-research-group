@@ -12,53 +12,8 @@
 */}}
 
 
-{{/* <details class="toc-inpage d-print-none" open>  
+ <details class="toc-inpage d-print-none" open>  
   <summary class="font-weight-bold">{{ i18n "table_of_contents" }}</summary>  
   {{ $.Page.TableOfContents }}  
-</details>*/}}
-
-<div class="toc-sidebar">  
-    <h2>目录</h2>  
-    <ul>  
-        {{ $headings := $.Page.Summary | $.Page.TableOfContents }}  
-        {{ range $i, $heading := $headings }}  
-            <li>  
-                <a href="#{{ $heading.ID }}">{{ $heading.Title }}</a>  
-            </li>  
-        {{ end }}  
-    </ul>  
-</div>  
-
-<style>  
-.toc-sidebar {  
-    position: fixed; /* 固定在页面侧边 */  
-    top: 20px; /* 距离顶部的距离 */  
-    right: 20px; /* 距离右侧的距离 */  
-    width: 200px; /* 侧边目录的宽度 */  
-    background: #f9f9f9; /* 背景色 */  
-    padding: 15px; /* 内边距 */  
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 阴影效果 */  
-    z-index: 1000; /* 确保比其他内容高 */  
-}  
-
-.toc-sidebar h2 {  
-    margin-top: 0; /* 移除顶部外边距 */  
-}  
-
-.toc-sidebar ul {  
-    list-style: none; /* 移除默认的列表样式 */  
-    padding-left: 0; /* 移除左侧内边距 */  
-}  
-
-.toc-sidebar li {  
-    margin-bottom: 5px; /* 列表项之间的间距 */  
-}  
-.toc-sidebar li a {  
-    text-decoration: none; /* 移除下划线 */  
-    color: #333; /* 文字颜色 */  
-}  
-.toc-sidebar li a:hover {  
-    text-decoration: underline; /* 悬停时添加下划线 */  
-}  
-</style>
+</details>
 
