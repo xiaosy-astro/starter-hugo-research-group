@@ -10,6 +10,22 @@ baseURL: 'https://wangboting-personal-blog.netlify.app/' # Website URL
 ## PAGE OPTIONS
 ############################
 cascade:
+- _target:
+      path: /life-knowledge/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: false
+    show_related: false
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: true
+    header:
+      navbar:
+        enable: true
 
   # Blog post options
   - _target:
