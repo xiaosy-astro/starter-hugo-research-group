@@ -1,6 +1,7 @@
 ---
 title: 如何在研究生院取得成功：学生指南
 date: 2024-07-29
+sidebar: true
 image:
   focal_point: 'top'
 authors:
