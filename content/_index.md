@@ -56,9 +56,8 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+---
 {{< button name="播放音乐" icon="music" icon_pack="fas" onclick="toggleAudio()" >}}
 <div id="audio-player" style="display: none;">
   {{< audio src="漠河舞厅.mp3" preload="none" controls="true" >}}
 </div>
-
----
