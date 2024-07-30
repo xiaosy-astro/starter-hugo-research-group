@@ -9,34 +9,16 @@
         the in page TOC only appears when the right sidebar of the book layout is hidden.
     show_on : optional
         Same as above, but for showing the TOC only on certain screen size.
-
-{{ $headers := findRE "<h[2-3].*?>(.+?)</h[2-3]>" .Content }}
-{{ if gt (len $headers) 0 }}
-<div class="sidebar-nav">
-  <h2>目录</h2>
-  <ul>
-    {{ range $index, $header := $headers }}
-    {{ $link := printf "#heading-%d" $index }}
-    {{ $text := replaceRE "<[^>]+>" "" $header }}
-    <li><a href="{{ $link }}">{{ $text }}</a></li>
-    {{ end }}
-  </ul>
-</div>
-{{ end }}
-
 */}}
 
 
 
 
-<div class="sidebar-nav">
+<div class="toc">
   <h2>目录</h2>
-  <ul>
-    {{ range $index, $header := $headers }}
-    {{ $link := printf "#heading-%d" $index }}
-    {{ $text := replaceRE "<[^>]+>" "" $header }}
-    <li><a href="{{ $link }}">{{ $text }}</a></li>
-    {{ end }}
-  </ul>
+  <nav>
+    {{ .Page.TableOfContents }}
+  </nav>
 </div>
+
 
