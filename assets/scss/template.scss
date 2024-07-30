@@ -8,39 +8,43 @@
   justify-content: center;
 }
 // sidebar
+// 侧边目录容器
 .sidebar {
+  width: 200px;
   background-color: #f5f5f5;
-  border: 1px solid #e3e3e3;
   padding: 20px;
-  margin-bottom: 20px;
+  border-right: 1px solid #ddd;
+
+  // 目录标题
+  .sidebar-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  // 目录列表
+  .sidebar-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+    // 目录项
+    .sidebar-item {
+      margin-bottom: 5px;
+
+      // 目录链接
+      .sidebar-link {
+        color: #333;
+        text-decoration: none;
+
+        &:hover {
+          color: #000;
+        }
+      }
+    }
+  }
 }
 
-.sidebar h2 {
-  font-size: 18px;
-  margin-top: 0;
-}
-
-.sidebar nav ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.sidebar nav ul ul {
-  margin-left: 20px;
-}
-
-.sidebar nav a {
-  color: #333;
-  text-decoration: none;
-}
-
-.sidebar nav a:hover {
-  color: #000;
-}
-
-.sidebar nav .active > a {
-  font-weight: bold;
-}
 
 
 
