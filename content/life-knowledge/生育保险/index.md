@@ -15,6 +15,7 @@ image:
 authors:
   - 知乎大佬【保贝说保】
 tags:
+  - 社会保障
   - 生育保险
 categories:
   - 生育保险
