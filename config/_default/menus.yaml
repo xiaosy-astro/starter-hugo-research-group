@@ -36,7 +36,4 @@ main:
     url: life-knowledge/
     weight: 40
 
-  - name: 见闻
-    url: tour/
-    weight: 40
 
