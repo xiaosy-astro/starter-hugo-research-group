@@ -32,6 +32,7 @@
 
 {{ $title := .Get "title" | default "目录" }}
 
+{{ if .Page.TableOfContents }}
 <div class="toc">
   <h2>{{ $title | markdownify | emojify }}</h2>
   <nav>
@@ -42,6 +43,9 @@
     </ul>
   </nav>
 </div>
+{{ else }}
+<p>目录生成失败，页面内容不足以生成目录。</p>
+{{ end }}
 
 <style>
 .toc {
@@ -67,5 +71,7 @@
 .toc ul li a:hover {
   text-decoration: underline;
 }
+</style>
+
 </style>
 
