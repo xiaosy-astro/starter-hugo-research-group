@@ -19,6 +19,7 @@ tags:
   - 医疗保险
 categories:
   - 医疗保险
+toc: true
 ---
 
 &emsp;&emsp;原文链接：[医保住院报销到底是怎样计算的？](https://www.zhihu.com/question/48675395/answer/1180848131)
