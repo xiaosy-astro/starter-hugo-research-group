@@ -1,0 +1,5 @@
+<div class="music-player">
+  {{ with .content.audio }}
+  <audio src="{{ .src }}" {{ if .preload }}preload="{{ .preload }}"{{ end }} {{ if .controls }}controls{{ end }}></audio>
+  {{ end }}
+</div>
