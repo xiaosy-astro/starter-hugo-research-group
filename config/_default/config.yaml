@@ -12,7 +12,7 @@ baseURL: 'https://wangboting-personal-blog.netlify.app/' # Website URL
 cascade:
   - _target:
       path: /wenxue/**
-      kind: post
+      kind: page
     pager: true
     editable: true
     hide_date: false
