@@ -8,12 +8,36 @@
   justify-content: center;
 }
 
-.post-date {  
-    float: left;  
-    width: 20%; /* 根据需要调整 */  
-}  
-
-.post-content {  
-    float: right;  
-    width: 75%; /* 根据需要调整 */  
+/* Sidebar navigation style */
+.sidebar-nav {
+  position: fixed; /* Fixed position on the side */
+  top: 50px; /* Adjust according to your header height */
+  left: 0;
+  width: 250px; /* Adjust width as needed */
+  padding: 20px;
+  background-color: #f0f0f0; /* Background color */
 }
+
+/* Style for links in the sidebar */
+.sidebar-nav a {
+  display: block;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar-nav a:hover {
+  color: #555;
+}
+
+{{ if .Params.sidebar }}
+  <div class="sidebar-nav">
+    <h2>目录</h2>
+    <ul>
+      <li><a href="#section1">章节一</a></li>
+      <li><a href="#section2">章节二</a></li>
+      <!-- 添加更多章节链接 -->
+    </ul>
+  </div>
+{{ end }}
+
