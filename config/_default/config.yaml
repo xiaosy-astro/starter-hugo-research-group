@@ -14,7 +14,7 @@ cascade:
       path: /wenxue/**
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: false
     show_date_updated: true
     reading_time: true
@@ -30,7 +30,7 @@ cascade:
       path: /life-knowledge/**
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: false
     show_date_updated: true
     reading_time: true
@@ -48,7 +48,7 @@ cascade:
       path: /graduate-student-life/**
       kind: page
     pager: true
-    editable: true
+    editable: false
     hide_date: false
     show_date_updated: true
     reading_time: true
