@@ -49,7 +49,6 @@ cascade:
       kind: page
     pager: true
     editable: true
-    editable:   
       url: "https://github.com/wangboting/starter-hugo-research-group/edit/main/content/graduate-student-life/{{ filename }}"
     hide_date: false
     show_date_updated: true
