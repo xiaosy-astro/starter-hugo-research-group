@@ -31,7 +31,7 @@ sections:
             position: center
             color: '#555'
         - title: 探索宇宙奥秘
-          content: '不论您是天文爱好者、哲学追寻者，还是寻找灵感的人，我希望我的博客能为您带来启发和共鸣。 🌟'
+          content: '希望我的博客能为您带来启发和共鸣。 🌟'
           align: center
           background:
             image:
@@ -43,7 +43,7 @@ sections:
             position: left
             color: '#333'
           link:
-            icon: info-circle
+            icon: home
             icon_pack: fas
             text: 开始
             url: ../graduate-student-life/
@@ -57,4 +57,3 @@ sections:
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
-{{< audio src="assets/media/国际歌-中央乐团合唱队.mp3" >}}
