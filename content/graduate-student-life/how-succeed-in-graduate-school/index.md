@@ -17,6 +17,10 @@ categories:
 > 一旦您找到了论文题目，您可能需要两年或更长时间才能完成论文，而这期间几乎看不到任何里程碑或标志性事件。            ——Marie desJardins
 
 <!--more-->
+<details class="toc-inpage d-print-none" open>  
+  <summary class="font-weight-bold">{{ i18n "table_of_contents" }}</summary>  
+  {{ $.Page.TableOfContents }}  
+</details>
 ### 1. 开始之前
 &emsp;&emsp;提前做好规划可以避免许多令人头疼的问题。首先，为什么要读研究生？
 通常给出的理由是：某些工作，尤其是研究和学术职位，需要或优先考虑博士学位；
