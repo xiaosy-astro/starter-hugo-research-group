@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing  
 
 sections:  
-  - block: markdown 
+  - block: hero
     content:  
       image:  
         filename: solar-system-.jpg  
