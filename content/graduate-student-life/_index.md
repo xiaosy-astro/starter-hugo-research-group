@@ -2,7 +2,7 @@
 title: Graduate Student Life
 
 # Listing view
-view: stream
+view: card
 # Optional banner image (relative to `assets/media/` folder).
 # banner:
 #   caption: ''
