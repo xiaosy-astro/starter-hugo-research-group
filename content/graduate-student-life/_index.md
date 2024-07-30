@@ -2,10 +2,10 @@
 title: Graduate Student Life
 
 # Listing view
-view: compact
+view: date-title-summary
 
 # Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# banner:
+#   caption: ''
+#   image: ''
 ---
