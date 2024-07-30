@@ -46,11 +46,6 @@ sections:
       is_fullscreen: true
       loop: true
       interval: 2000
-    content:
-      audio:
-        src: "漠河舞厅.mp3"
-        preload: "none"
-        controls: true
 
 ---
 
