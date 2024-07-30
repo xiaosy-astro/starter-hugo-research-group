@@ -8,17 +8,64 @@
         For instance, with `hide_on="xl"`,
         the in page TOC only appears when the right sidebar of the book layout is hidden.
     show_on : optional
-        Same as above, but for showing the TOC only on certain screen size.
-*/}}
-
-
-
-
-<div class="toc">
+        Same as above, but for showing the TOC only on certain screen size.<div class="toc">
   <h2>目录</h2>
   <nav>
     {{ .Page.TableOfContents }}
   </nav>
 </div>
+*/}}
 
+
+
+
+
+
+{{/* TOC Shortcode for Wowchemy. */}}
+{{/*
+    Docs: https://wowchemy.com/docs/content/writing-markdown-latex/#table-of-contents
+    Parameters
+    ----------
+    title : optional
+        Title for the TOC section.
+*/}}
+
+{{ $title := .Get "title" | default "目录" }}
+
+<div class="toc">
+  <h2>{{ $title | markdownify | emojify }}</h2>
+  <nav>
+    <ul>
+      {{ range .Page.TableOfContents }}
+        <li><a href="{{ .URL }}">{{ .Title | markdownify | emojify }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>
+
+<style>
+.toc {
+  position: sticky;
+  top: 1rem;
+  max-width: 300px;
+}
+.toc h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.toc ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.toc ul li {
+  margin-bottom: 0.5rem;
+}
+.toc ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+.toc ul li a:hover {
+  text-decoration: underline;
+}
+</style>
 
