@@ -14,12 +14,4 @@ sections:
       cta_alt:  
         label: 了解更多  
         url: https://wangboting-personal-blog.netlify.app/jiaocheng/  
-    
-          transform: translate(-50%, -50%); 
-          color: white; 
-          text-align: center; 
-          z-index: 2; 
-          padding: 20px; 
-          background-color: rgba(0, 0, 0, 0.5);   
-        }  
 ---
