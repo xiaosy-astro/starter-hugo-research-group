@@ -7,6 +7,30 @@ title: Stargazing Adventures # Website name
 baseURL: 'https://wangboting-personal-blog.netlify.app/' # Website URL
 
 ############################
+## PAGE OPTIONS
+############################
+cascade:
+
+  # Blog post options
+  - _target:
+      path: /graduate-student-life/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+
+
+############################
 ## LANGUAGE
 ############################
 
