@@ -2,10 +2,6 @@
 title: 首页
 type: landing
 
-
-title: 首页
-type: landing
-
 sections:
   - block: slider
     content:
