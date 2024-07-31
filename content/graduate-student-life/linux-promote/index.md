@@ -1,6 +1,6 @@
 ---
 title: Linux系统的基础命令
-date: 2023-07-05
+date: 2023-07-05T13:00:00Z
 authors:
   - admin
 
