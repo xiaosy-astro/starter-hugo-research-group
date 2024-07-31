@@ -7,10 +7,12 @@ authors:
 tags:
   - Linux
   - sherpa
+  - 教程
 
 categories:
   - Linux
   - 天文
+  - 教程
 ---
 
 &emsp;&emsp;为了记录正在学习使用钱德拉望远镜的天文软件包**ciao**，写下这篇博客.
