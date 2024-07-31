@@ -129,6 +129,6 @@ sitemap:
 params:
   page_view_conter: true
   post_view_format:
-    date_position: right
-    author_position: right
+    date_position: top
+    author_position: bottom
 
