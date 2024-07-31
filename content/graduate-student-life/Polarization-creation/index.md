@@ -1,6 +1,8 @@
 ---
 title: 偏振的产生
 date: 2024-03-19
+image:
+  focal_point: 'top'
 authors:
   - admin
 
