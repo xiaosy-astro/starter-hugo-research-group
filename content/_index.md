@@ -26,7 +26,7 @@ sections:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: 探索宇宙奥秘
+        - title: 追寻自我🤔
           content: '希望我的博客能为您带来启发和共鸣。 🌟'
           align: center
           background:
