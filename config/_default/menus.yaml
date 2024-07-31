@@ -32,5 +32,5 @@ main:
     weight: 40
 
   - name: 旅游
-    url: tour
+    url: tour/
     weight: 40
