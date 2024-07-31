@@ -18,10 +18,12 @@ tags:
   - Markdown
   - LaTeX
   - Shortcodes
+  - 教程
 
 categories:
   - html
   - Wowchemy
+  - 教程
 toc: true
 ---
 
