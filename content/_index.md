@@ -28,7 +28,7 @@ sections:
             color: '#555'
         - title: 追寻自我🤔
           content: '希望我的博客能为您带来启发和共鸣。 🌟'
-          align: center
+          align: right
           background:
             image:
               filename: universe-spiral.jpg
