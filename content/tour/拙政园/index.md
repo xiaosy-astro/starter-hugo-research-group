@@ -11,7 +11,7 @@ tags:
 categories:
   - 拙政园
   - 游玩
-view: date-title-summary
+layout: date-title-summary
 ---
 
 > ’此亦拙者之为政也’。……吾仅以一郡倘倅退林下，其为政殆有拙于岳者，园所以识也。            ——王献臣
