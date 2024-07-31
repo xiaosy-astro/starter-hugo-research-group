@@ -28,9 +28,6 @@ main:
   - name: 文学
     url: wenxue/
     weight: 40
-  - name: 教程
-    url: jiaocheng/
-    weight: 40
   
   - name: 生活常识
     url: life-knowledge/
