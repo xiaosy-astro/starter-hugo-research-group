@@ -80,6 +80,12 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+# Uncomment options below to use them.
+extensions:
+  cms:
+     branch: main
+#     publish_mode: editorial_workflow
+#     local_backend: true
 
 ############################
 ## ADVANCED
