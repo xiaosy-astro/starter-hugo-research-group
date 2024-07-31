@@ -17,4 +17,4 @@ categories:
 
 <!--more-->
 
-{{< gallery album="拙政园" >}} 
+{{< gallery album="zhuozhengyuan_pictures" >}} 
