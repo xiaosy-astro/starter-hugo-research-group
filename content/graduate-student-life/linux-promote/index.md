@@ -1,13 +1,11 @@
 ---
 title: Linux系统的基础命令
-date: 2023-07-05T13:00:00Z
+date: 2023-07-05
 authors:
   - admin
-
 tags:
   - Linux
   - 教程
-
 categories:
   - Linux
   - 教程
