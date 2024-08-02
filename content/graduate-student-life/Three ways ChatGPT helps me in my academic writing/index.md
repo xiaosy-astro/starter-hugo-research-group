@@ -2,7 +2,7 @@
 title: ChatGPT对我的学术写作有三种帮助
 date: 2024-08-02
 authors:
-    -Dritjon Gruda
+  - Dritjon Gruda
 ---
 
 ### 1. 润色学术写作
