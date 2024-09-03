@@ -1,5 +1,5 @@
 ---
-title: Life Knowledges
+title:Notes on Life
 
 # Listing view
 view: compact
