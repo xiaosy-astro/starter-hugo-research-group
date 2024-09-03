@@ -27,7 +27,7 @@ main:
     url: wenxue/
     weight: 40
   
-  - name: 生活常识
+  - name: 生活杂记
     url: life-knowledge/
     weight: 40
 
