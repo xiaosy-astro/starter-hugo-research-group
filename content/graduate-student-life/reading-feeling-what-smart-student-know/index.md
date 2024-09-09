@@ -62,9 +62,9 @@ categories:
 
 #### 问题2：关于这个话题，我已经知道些什么？
 &emsp;&emsp;在你看完标题但还没有开始阅读正文之前，作为热身，你应该花几分钟的时间快速写下关于对应话题所有你知道的事情。先看看文章标题，在你开始阅读正文之前，快速简洁地将以下几个问题的相关内容写下来：
-- 关于这个话题，你知道些什么？
-- 这个话题让你想起些什么？
-- 你想要知道些什么或者你希望学到些什么？
+- 关于这个话题，你知道些什么？（what you know about the topic）
+- 这个话题让你想起些什么？（what the topic reminds you of）
+- 你想要知道些什么或者你希望学到些什么？（what you'd like co know or expect to learn）
 
 &emsp;&emsp;回答这个问题的目的在于让你的大脑做好获得新信息的准备，而不是为你即将学习的内容做笔记。如果你已经习惯了直接开始完成任务，就算热身的时间只会花上几分钟，你可能也会觉得这种做法很傻。但这个热身的**目的在于激起你的好奇心**，将阅读变成一场游戏：通过阅读，你可以看到作者所说的内容跟你所猜想的有多接近。
 
@@ -129,7 +129,7 @@ categories:
 &emsp;&emsp;语法线索包括一些词语及短语，这些词语及短语帮助你预测作者接下来要讲些什么。有一些提示词语可以提示你作者即将：
 
 - 介绍一个新的观点：but, although, nevertheless, despite, however, except
-- 解释，或者强调讨论后的观点：and, moreover, also, forthermore, in addition
+- 解释，或者强调讨论后的观点：and, moreover, also, furthermore, in addition
 - 提供一个总结：so, therefore, as a result, consequently, thus, hence
 - 为总结提供理由：because, since, owing to, as a result of
 - 提供一个清单：first, second, next, last
