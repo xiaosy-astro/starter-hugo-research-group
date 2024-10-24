@@ -1,5 +1,5 @@
 ---
-title:Notes on Life
+title: Notes on Life
 
 # Listing view
 view: compact
